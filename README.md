@@ -71,7 +71,7 @@ This lab implements a collapsed-core campus network for a mid-sized headquarters
 
 ## Author
 
-Todd (@te_mach1)
+Todd Ethersee
 
 ## License
 
